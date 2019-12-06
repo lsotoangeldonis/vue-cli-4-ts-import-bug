@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-4-ts-import-bug",
-  "version": "1.0.0"
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
