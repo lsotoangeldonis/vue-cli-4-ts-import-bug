@@ -1,0 +1,42 @@
+/public/hot
+/public/storage
+/storage/*.key
+/storage/*.index
+/vendor
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+public/resources/brands/*.jpg
+public/resources/categories/*.jpg
+public/resources/products/*.jpg
+.DS_Store
+.vscode
+.deploy.conf
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
